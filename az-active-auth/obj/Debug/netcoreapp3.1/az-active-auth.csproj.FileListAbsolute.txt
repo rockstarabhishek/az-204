@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\az-active-auth\obj\Debug\netcoreapp3.1\az-active-auth.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\az-active-auth\obj\Debug\netcoreapp3.1\az-active-auth.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\az-active-auth\obj\Debug\netcoreapp3.1\az-active-auth.AssemblyInfo.cs
+C:\Users\Admin\Desktop\az-active-auth\obj\Debug\netcoreapp3.1\az-active-auth.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\az-active-auth\bin\Debug\netcoreapp3.1\az-active-auth.exe
+C:\Users\Admin\Desktop\az-active-auth\bin\Debug\netcoreapp3.1\az-active-auth.deps.json
+C:\Users\Admin\Desktop\az-active-auth\bin\Debug\netcoreapp3.1\az-active-auth.runtimeconfig.json
+C:\Users\Admin\Desktop\az-active-auth\bin\Debug\netcoreapp3.1\az-active-auth.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\az-active-auth\bin\Debug\netcoreapp3.1\az-active-auth.dll
+C:\Users\Admin\Desktop\az-active-auth\bin\Debug\netcoreapp3.1\az-active-auth.pdb
+C:\Users\Admin\Desktop\az-active-auth\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Admin\Desktop\az-active-auth\obj\Debug\netcoreapp3.1\az-active-auth.csproj.CopyComplete
+C:\Users\Admin\Desktop\az-active-auth\obj\Debug\netcoreapp3.1\az-active-auth.dll
+C:\Users\Admin\Desktop\az-active-auth\obj\Debug\netcoreapp3.1\az-active-auth.pdb
+C:\Users\Admin\Desktop\az-active-auth\obj\Debug\netcoreapp3.1\az-active-auth.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tk57m0TYYRpLzJRbDfkxuCwvnFPBAmg/LIskWU2pkkAbIyCbWnrSGEnPIjZbqk5dV3hBKn0r3JasQElv7wfiWA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\az-active-auth\\az-active-auth.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.identity.client\\4.29.0\\microsoft.identity.client.4.29.0.nupkg.sha512"
+  ],
+  "logs": []
+}
